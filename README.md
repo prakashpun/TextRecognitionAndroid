@@ -1,4 +1,3 @@
-Text Recognition Tutorial
 
 Text Recognition for Android using Google Mobile Vision.
 
